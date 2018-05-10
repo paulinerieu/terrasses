@@ -1,0 +1,43 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #2e3d4d;
+  background-color: #2C3D4E
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: white; 
+  text-align: center;  
+}
+
+h2{
+	font-family: "Raleway";
+	color:#2C3D4E;
+	font-size: 18px;
+	text-align: center;
+}
+
+p{
+	font-family: "Raleway"
+	font-size 6px;
+	text-align: center;
+	color: #2C3D4E;  
+}
+
+img {
+  height: 200px;
+  width: 200px; 
+  object-fit: cover; 
+  text-align: center;
+}
+
+
+a{
+	margin-top:10px;
+	width: 200px;
+}
+
+card{
+	background-color: white;
+	
+}
